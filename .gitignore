@@ -1,0 +1,43 @@
+/node_modules
+/dist
+.env
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+lib-cov
+coverage
+.nyc_output
+.grunt
+bower_components
+.jshintignore
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+
+# Optional npm cache directory
+.npm
+.eslintcache
+.parcel-cache
+.cache
+.next
+
+# Mac system files
+.AppleDouble
+.LSOverride
+# Thumbnails
+._*
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
